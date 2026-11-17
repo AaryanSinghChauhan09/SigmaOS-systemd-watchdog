@@ -3,7 +3,7 @@ name = "SigmaOS-systemd-watchdog"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "systemd-watchdog component"
+description = "systemd watchdog"
 upstream = []
 
 [contract]
